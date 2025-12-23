@@ -100,10 +100,10 @@ We synthesized fragmented data into comprehensive metrics:
 
 
 ### 3.2 Feature Transformation 
-* **Age Groups:** Applying a logarithmic transformation to the SalePrice to achieve a normal distribution, as confirmed during the EDA stage.
+* Applying a logarithmic transformation to the SalePrice to achieve a normal distribution, as confirmed during the EDA stage.
 
 ### 3.3 Feature Extraction
-* **Market Cycles:** Extracted `SaleYear` as a categorical string. This allows the model to treat specific years as distinct economic periods rather than a simple linear trend.
+* Extracted `SaleYear` as a categorical string. This allows the model to treat specific years as distinct economic periods rather than a simple linear trend.
 
 ### 3.4 Feature Selection & Encoding
 * **One-Hot Encoding:** Converted all categorical text into numerical format, resulting in a final dataset of **287 features**.
