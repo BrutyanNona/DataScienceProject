@@ -62,7 +62,7 @@ Brief version of what you'll find in the data description file.
 
 
 
-## Analysis Description
+## Work Description
 ## 1. Exploratory Data Analysis (EDA)
 
 Before cleaning, we performed an in-depth analysis of the 1,460 properties and 81 initial features.
